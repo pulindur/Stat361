@@ -7,3 +7,5 @@ plot(cars)    # plot speed against distance
 hist(cars$speed)
 
 mean(cars$speed)
+
+mean(cars$dist)
