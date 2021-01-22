@@ -8,4 +8,4 @@ hist(cars$speed)
 
 mean(cars$speed)
 
-hist(cars$dist)
+mean(cars$dist)
